@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 2100,
+      "quantity": "677",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "ordinateur portable",
+      "price": 2100,
+      "quantity": 123,
+      "selected": false,
+      "available": true,
+      "id": 5
+    },
+    {
+      "name": "Printerhp",
+      "price": 2100,
+      "quantity": 600,
+      "selected": true,
+      "available": true,
+      "id": 6
+    },
+    {
+      "name": "ordinateur portable",
+      "price": 2100,
+      "quantity": 123,
+      "selected": false,
+      "available": true,
+      "id": 9
+    },
+    {
+      "name": "pc portable",
+      "price": "344",
+      "quantity": "23",
+      "selected": true,
+      "available": true,
+      "id": 10
+    },
+    {
+      "name": "username",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 11
+    },
+    {
+      "name": "admin2",
+      "price": "12",
+      "quantity": "134",
+      "selected": true,
+      "available": false,
+      "id": 12
+    }
+  ]
+}

@@ -2,10 +2,10 @@
   "products": [
     {
       "id": 1,
-      "name": "Computer",
+      "name": "Computer2005",
       "price": 2100,
       "quantity": "677",
-      "selected": true,
+      "selected": false,
       "available": true
     },
     {
@@ -39,14 +39,6 @@
       "selected": true,
       "available": true,
       "id": 10
-    },
-    {
-      "name": "username",
-      "price": 0,
-      "quantity": 0,
-      "selected": true,
-      "available": true,
-      "id": 11
     },
     {
       "name": "admin2",
